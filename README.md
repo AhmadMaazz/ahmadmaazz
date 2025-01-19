@@ -5,15 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadmaazz" alt="ahmadmaazz" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack TODO App**
-
-- 🌱 I’m currently learning **Tensorflow, Scikit-Learn, Flutter, Firebase**
-
-- 👯 I’m looking to collaborate on **AI Projects and Flutter Projects**
-
-- 🤝 I’m looking for help with **Tensorflow**
-
-- 💬 Ask me about **Machine Learning, Deep Learning etc**
 
 - 📫 How to reach me **ahmad.maaz273@gmail.com**
 
